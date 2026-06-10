@@ -8,10 +8,6 @@
  ██║ ╚═╝ ██║███████╗██║  ██║   ██║   ██║  ██║██████╔╝
  ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═════╝ 
 ```
-
-# Mehtab Khan
-### Backend Developer · Software Engineer
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+Software+Engineer;Python+%7C+Django+%7C+FastAPI;System+Design+%7C+Clean+Architecture;Third-Party+Integrations+%7C+REST+APIs)](https://git.io/typing-svg)
 
 📞 `+92 342 6824771` &nbsp;|&nbsp; 📧 `itmehtabkhan001@gmail.com`
@@ -59,16 +55,15 @@
 ---
 
 ```bash
-$ backend --status
+Backend System Health Check...
 
-  Designing the schema...         ████████████████████  done
-  Writing serializers...          ████████████████████  done
-  Optimizing queries...           ████████████████████  done
-  Connecting third-party APIs...  ████████████████████  done
-  Running migrations...           ████████████████████  done
-  Deploying to production...      ████████████████████  done
+  API Design & Architecture     ████████████████████  stable
+  Database Performance          ████████████████████  optimized
+  Async Task Processing         ████████████████████  running
+  Third-party Integrations      ████████████████████  stable
+  Deployment Pipeline           ████████████████████  production-ready
 
-  ✔  API is live. 0 errors. 0 warnings.
+✔ System Status: SCALABLE • RELIABLE • PRODUCTION-READY
 ```
 
 <div align="center">
